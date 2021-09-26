@@ -2,7 +2,7 @@
 
 Kinetic and stoichiometric models for Clostridium beijerinckii ABE fermentation.
 
-##Contents:
+## Contents:
 
 - data: Data used to train the kinetic model
 - jupyter: Jupyter notebooks used to generate the parameter estimation and figures
